@@ -1,0 +1,221 @@
+
+@import url("https://fonts.googleapis.com/css?family=Inter:300, 500");
+.macbook-air-6 {
+align-items: flex-start;
+background-color: var(--white);
+border: 1px none;
+display: flex;
+flex-direction: column;
+height: 832px;
+width: 1280px;
+}
+.hidden,
+.hidden * {
+pointer-events: none;
+visibility: hidden;
+}
+.overlap-group5 {
+background-image: url(https://anima-uploads.s3.amazonaws.com/projects/648edd1c1930c355d208bb25/releshop---cinematic-b-roll--bq--1.png);
+background-size: 100% 100%;
+height: 688px;
+position: relative;
+width: 1280px;
+}
+.rectangle-16 { 
+background-color: #89c2e0eb;
+border-radius: 53px; 
+filter: blur(4px); 
+height: 607px; 
+left: 250px; 
+position: absolute;
+top: 43px;
+width: 779px;
+}
+.overlap-group2 {
+    align-items: flex-start; 
+    border: 1px solid;
+    border-color: white;
+    border-radius: 20px;
+    display: flex;
+    height: 115px; 
+    left: 330px; 
+    min-width: 540px;
+    padding: 11px 38.6px;
+    position: absolute;
+    top: 350px;
+}
+.message {
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+    font-size: 20px;
+    color: white;
+}
+.overlap-group3 {
+align-items: center;
+background-color: var(--white);
+border-radius: 14px;
+display: flex;
+height: 34px;
+left: 594px;
+min-width: 91px;
+padding:21px;
+position: absolute;
+top: 487px;
+}
+.place-3 {
+color: var(--half-baked);
+font-family: var(--font-family-inter);
+font-size: var(--font-size-m);
+font-weight: 300px;
+min-height: 24px;
+min-width: 49px;
+
+}
+.macbook-air-6 .place-4 {
+letter-spacing: 0;
+line-height: 40px;
+white-space: nowrap;
+font-size: 20px;
+color: white;
+}
+.overlap-group {
+align-items: flex-start; 
+border: 1px solid;
+border-color: white;
+border-radius: 20px;
+display: flex;
+height: 48px; 
+left: 330px; 
+min-width: 540px;
+padding: 11px 38.6px;
+position: absolute;
+top: 150px;
+}
+.place-2 {
+min-height: 19px;
+}
+.macbook-air-6 .image { 
+height: 38px;
+object-fit: cover; 
+position: absolute;
+top: 563px;
+width: 38px;
+}
+.image-8 { 
+left: 647px;
+margin-top: 6px;
+}
+.image-10 {
+left: 856px;
+margin-top: 6px ;
+}
+.x158-a-le-loi-hai-cha {
+left: 333px;
+letter-spacing: 0;
+line-height: normal; 
+position: absolute;
+top: 565px;
+white-space: nowrap;
+}
+.supportgmailcom { 
+left: 697px;
+letter-spacing: 0; 
+line-height: normal; 
+position: absolute; 
+top: 582px;
+white-space: nowrap;
+}
+.phone {
+left: 905px; 
+letter-spacing: 0;
+line-height: normal;
+position: absolute;
+top: 582px;
+white-space: nowrap;
+}
+.contact-us {
+color: white;
+font-family:'Courier New', Courier, monospace; 
+font-size: 32px;
+font-weight: 500;
+left: 536px; 
+letter-spacing: 0;
+line-height: normal;
+position: absolute; top: 75px;
+white-space: nowrap;
+width: 208px;
+}
+.overlap-group1 {
+    align-items: flex-start; 
+    border: 1px solid;
+    border-color: white;
+    border-radius: 20px;
+    display: flex;
+    height: 48px; 
+    left: 330px; 
+    min-width: 540px;
+    padding: 11px 38.6px;
+    position: absolute;
+    top: 250px;
+}
+.email {
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+    font-size: 20px;
+    color: white;
+}
+.image-9 {
+left: 287px;
+}
+.overlap-group4 {
+    align-items: center;
+    background-color: #89C2E0; 
+    box-shadow: 0px 5px 4px #00000040;
+    display: flex;
+    height: 144px;
+    justify-content: flex-end;
+    min-width: 1140px;
+    padding: 18px 72px;
+}
+.barber-shop-cinematic-b-roll-bq-1  {
+    height: 688px;
+    width: 1358px;
+}
+.place-1 {
+margin-left: 96px;
+margin-top:20px;
+min-height: 34px;
+width: 185px;
+color: white;
+font-size: 34px;
+}
+.place {
+letter-spacing: 0;
+line-height: normal;
+margin-left: 252px;
+margin-top: 40px;
+min-height: 34px; 
+white-space: nowrap; 
+width: 139px;
+font-size: 34px;
+color: white;
+}
+.about {
+letter-spacing: 0;
+line-height: normal;
+margin-left: 97px;
+margin-top: 20px;
+min-height: 30px;
+white-space: nowrap;
+width: 135px;
+font-size: 34px;
+color: white;
+}
+.group-1 {
+align-self: flex-start;
+height: 108px;
+width: 210px;
+margin-right: 100px;
+}

@@ -1,0 +1,79 @@
+
+@import url("https://fonts.googleapis.com/css? family=Inter: 500, 200, 300");
+.macbook-air-1 {
+align-items: flex-start; 
+background-color: var(--white);
+border: 1px none;
+display: flex;
+flex-direction: column;
+height: 832px;
+width: 1280px;
+}
+
+.hidden,
+.hidden * {
+pointer-events: none; 
+visibility: hidden;
+}
+
+.overlap-group {
+align-items: center;
+background-color: #89C2E0; 
+box-shadow: 0px 5px 4px #00000040;
+display: flex;
+height: 144px;
+justify-content: flex-end;
+min-width: 1140px;
+padding: 18px 72px;
+}
+
+.group-1 {
+align-self: flex-start;
+height: 108px;
+width: 210px;
+
+}
+.place-1 {
+letter-spacing: 0;
+line-height: normal;
+margin-left: 100px;
+margin-top: 10px;
+min-height: 30px; 
+white-space: nowrap; 
+width: 135px;
+height: 30px;
+font-size: 34px;
+color: white;
+}
+
+.place {
+letter-spacing: 0;
+line-height: 70px;
+margin-left: 380px;
+margin-top: 0px;
+min-height: 30px; 
+white-space: nowrap; 
+width: 135px;
+height: 30px;
+font-size: 34px;
+color: white;
+}
+.about {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 120px;
+    
+    margin-top: 10px;
+    min-height: 30px; 
+    white-space: nowrap; 
+    width: 135px;
+    height: 30px;
+    font-size: 34px;
+    color: white;
+}
+
+.barber-shop-cinematic-b-roll-bq-1 {
+height: 688px; 
+width: 1358px;
+}
+
